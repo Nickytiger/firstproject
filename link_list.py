@@ -3,7 +3,7 @@
     重点程序
 """
 
-
+# 哈哈哈哈
 # 创建结点类
 class Node(object):
     def __init__(self, value, next=None):
